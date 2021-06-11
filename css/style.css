@@ -1,0 +1,76 @@
+h1{
+    color: goldenrod;
+}
+p{
+    
+    height: 150px;
+}
+h4{
+    font-weight: 800;
+    font-size: 40px;
+}
+#head-line{
+    color: blueviolet;
+}
+#heading{
+    font-size: 40px;
+    color: cadetblue;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+}
+#para1{
+    background-color:rgb(60, 124, 196) ;
+    color: white;
+}
+h5.spe-class{
+    font-size: 30px;
+    color: royalblue;
+}
+#coloring{
+    color: sandybrown;
+}
+.blog{
+    background-color: lightblue;
+    border: 2px solid yellow;
+    border-radius: 10px;
+    padding: 20px 40px;
+    height: 400px;
+}
+.image-section{
+    border: 2px dashed blue;
+    border-radius: 10px;
+    padding: 50px 100px;
+    margin: 50px 10px;
+}
+#para1{
+    padding: 20px 10px;
+    border-radius: 10px;
+}
+.edit-blog{
+    height: auto;
+}
+
+/* Css box-model example */
+.box-model{
+    height: 200px;
+    width: auto;
+    margin: 40px 20px;
+    padding: 30px 20px;
+    border: 3px solid peru;
+}
+.blog> p{
+    text-align: justify;
+}
+.blog2{
+    border: 1px solid purple;
+    margin: 1%;
+    padding: 7px;
+    height: auto;
+    width: 30%;
+    border-radius: 7px;
+    /* float: left; */
+    display: inline-block;
+}
+.blog-section{
+   
+}
